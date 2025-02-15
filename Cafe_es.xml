@@ -80,10 +80,10 @@
 			<text id="alert_invitefriend_myname" name="Tu Nombre:"  />
 			<text id="alert_invitefriend_name" name="Nombre de tu Amigo:"  />
 			<text id="alert_invitefriend_title" name="Invitar Amigo"  />
-			<text id="alert_jobhelp_copy1" name="1. Consigue un Plato desde un Mostrador 
+			<text id="alert_jobhelp_copy1" name="1. Consigue un Plato desde un Mostrador. 
 2. Entrégaselo a un Cliente Hambriento."  />
-			<text id="alert_jobhelp_copy2" name="1. Retira el Platos de la Mesa (pueden ser varios) 
-2. Lleva el Plato a un Mostrador"  />
+			<text id="alert_jobhelp_copy2" name="1. Retira el Platos de la Mesa (pueden ser varios). 
+2. Lleva el Plato a un Mostrador."  />
 			<text id="alert_jobhelp_header1" name="Servir Platos"  />
 			<text id="alert_jobhelp_header2" name="Lavar la Loza"  />
 			<text id="alert_jobhelp_title" name="Tus Empleos"  />
@@ -137,7 +137,7 @@ Si lo guardas, perderás los Batidos restantes."  />
 			<text id="alert_unlockitem_copy" name="¡Puedes pedir que te envíen este Ingrediente por el Expreso Local! Sin embargo, la exclusividad tiene su precio."  />
 			<text id="alert_unlockitem_title" name="¿Entrega por el Expreso Local?"  />
 			<text id="alert_userkicked_copy" name="Has sido Expulsado del Café."  />
-			<text id="alert_userkicked_title" name="¡Expulsado!"  />
+			<text id="alert_userkicked_title" name="¡Expulsión!"  />
 			<text id="alert_workinghero_copy" name="¡Todavía falta Tiempo de Cocción!"  />
 			<text id="alert_workinghero_title" name="¡Espera!"  />
 		</alerts>
@@ -249,7 +249,7 @@ Si lo guardas, perderás los Batidos restantes."  />
 			<text id="cookstep_noodlesalad1" name="Batiendo la mayonesa"  />
 			<text id="cookstep_noodlesalad2" name="Mezclando los ingredientes"  />
 			<text id="cookstep_omelette1" name="Sazonando los huevos"  />
-			<text id="cookstep_omelette2" name="Doblando los huevos"  />
+			<text id="cookstep_omelette2" name="Agregando los huevos"  />
 			<text id="cookstep_onionsoup1" name="Friendo las cebollas"  />
 			<text id="cookstep_onionsoup2" name="Gratinando las sopas"  />
 			<text id="cookstep_peasoup1" name="Friendo las cebollas"  />
@@ -431,7 +431,7 @@ Por hoy, no habrá Comida preparada por la Cafetería de la Escuela."  />
 Duración del Oro: {1} Horas
 Duración de la Plata: {2} Horas
 Duración del Bronce: {3} Horas"  />
-			<text id="dialogwin_coop_extendtime_title" name="¿Más más Tiempo?"  />
+			<text id="dialogwin_coop_extendtime_title" name="¿Más Tiempo?"  />
 			<text id="dialogwin_coop_maxdone" name="Ya has iniciado un Cooperativo el día de hoy, podrás empezar otro mañana."  />
 			<text id="dialogwin_coop_maxuser" name="Límite de Participantes: {0}"  />
 			<text id="dialogwin_coop_member" name="Miembro del Cooperativo"  />
@@ -485,7 +485,7 @@ Duración del Bronce: {3} Horas"  />
 			<text id="dialogwin_ingamehelp_1_6" name="Cada Plato tiene un diferente Tiempo de Cocción. Ponlo en el Mostrador para servirlo."  />
 			<text id="dialogwin_ingamehelp_1_7" name="Al utilizar la Cocina se ensucia. Debes limpiarla cada vez que la usas."  />
 			<text id="dialogwin_ingamehelp_2_1" name="¿Qué hay que saber sobre los Ingredientes?"  />
-			<text id="dialogwin_ingamehelp_2_2" name="Aquí guardas los Ingredientes que compraste. Cada Refrigerador tiene un Límite de Capacidad, pero siempre es bueno tener reservas."  />
+			<text id="dialogwin_ingamehelp_2_2" name="Aquí se guardan los Ingredientes que compraste. Cada Refrigerador tiene un Límite de Capacidad, pero siempre es bueno tener reservas."  />
 			<text id="dialogwin_ingamehelp_2_3" name="Los Ingredientes Exóticos le darán más sabor a tus Platos. Si los utilizas, obtendrás más Raciones y XP. No ocupan espacio en tu Refrigerador."  />
 			<text id="dialogwin_ingamehelp_2_4" name="No todos los Ingredientes estarán siempre disponibles. El Expreso Local puede ayudarte. Una pequeña propina te dará todo lo que necesitas."  />
 			<text id="dialogwin_ingamehelp_2_5" name="Estos Ingredientes estarán siempre disponibles:"  />
@@ -500,7 +500,7 @@ Duración del Bronce: {3} Horas"  />
 			<text id="dialogwin_ingamehelp_4_2" name="Puedes conocer otros Jugadores, buscar un Empleo o simplemente Chatear con otros Jugadores en el Mercado."  />
 			<text id="dialogwin_ingamehelp_4_3" name="Cualquier acción que realices resultará en Logros, XP o Dólares Café."  />
 			<text id="dialogwin_ingamehelp_4_4" name="En el Mercado te encontrarás con otros Jugadores, puedes contratarlos como Meseros en tu Café, o puedes ser tú el Mesero en el Café de otro Jugador."  />
-			<text id="dialogwin_ingamehelp_4_5" name="El Cooperativo es un proyecto de colaboración para cocinar, el cual puedes jugar con otros Jugadores. Si ganan, tendrán una Recompensa."  />
+			<text id="dialogwin_ingamehelp_4_5" name="El Cooperativo es un proyecto colaborativo de cocina, el cual puedes jugar con otros Jugadores. Si ganan, tendrán una Recompensa."  />
 			<text id="dialogwin_ingamehelp_4_6" name="Los Meseros sirven los Platos Terminados a los Clientes y retiran los Platos luego de que estos se van."  />
 			<text id="dialogwin_ingamehelp_4_7" name="Si tienes un Plato Terminado y no lo has puesto en un Mostrador, se Pudrirá."  />
 			<text id="dialogwin_ingamehelp_ingredients" name="Ingredientes"  />
@@ -738,7 +738,7 @@ Por favor, cierra tu Sesión."  />
 			<text id="shopbuy_error" name="¡No hay espacio!"  />
 			<text id="shopbuy_errorcode_40" name="¡Tu Refrigerador está lleno!"  />
 			<text id="shopdelete_errorcode_41" name="Artículo no disponible"  />
-			<text id="smoothiemaker_error_alreadyserved" name="Le están sirviendo el Plato al Cliente."  />
+			<text id="smoothiemaker_error_alreadyserved" name="Ya le están sirviendo un Plato al Cliente."  />
 			<text id="useraction_error" name="¡Atención!"  />
 			<text id="useraction_errorcode_2" name="¡A descansar! ¡Ya has trabajado suficiente por hoy!"  />
 			<text id="useraction_errorcode_62" name="Primero, toma un Plato del Mostrador."  />
@@ -780,13 +780,13 @@ Por favor, cierra tu Sesión."  />
 			<text id="featureDialog_27_text_0" name="¡Aumenta tu Popularidad con la nueva Máquina de Algodón de Azúcar! ¡Sólo está disponible en la Rueda de la Fortuna!"  />
 			<text id="featureDialog_28_text_0" name="¡SÓLO POR HOY! Esta es tu última oportunidad de girar la Rueda y ganar la Máquina de Algodón de Azúcar."  />
 			<text id="featureDialog_29_text_0" name="¡Ahora puedes cambiar el Atuendo de tu Personaje cuando quieras!"  />
-			<text id="featureDialog_2_text_0" name="¡Conoce a otros Jugadores y conversa con ellos!"  />
+			<text id="featureDialog_2_text_0" name="¡Conoce a otros Jugadores y Chatea con ellos!"  />
 			<text id="featureDialog_2_text_1" name="¡Nuevas Decoraciones para la Cena!"  />
 			<text id="featureDialog_2_text_2" name="¡Amplía tu Café aún más!"  />
 			<text id="featureDialog_30_text_0" name="¡Más espacio en tu Refrigerador!
 Tus Ingredientes Exóticos ya no ocupan espacio en tu Refrigerador. Puedes guardar los que gustes."  />
 			<text id="featureDialog_30_text_1" name="Si comienzas de inmediato, podrás comprar las Ampliaciones utilizando Dólares Café."  />
-			<text id="featureDialog_31_text_0" name="¡Cuentas con más espacio en tu Refrigerador! A partir de ahora, los Ingredientes Exóticos no ocupan lugar en tu refrigerador. Puedes almacenar cuantos quieras."  />
+			<text id="featureDialog_31_text_0" name="¡Cuentas con más espacio en tu Refrigerador! A partir de ahora, los Ingredientes Exóticos no ocupan espacio en tu Refrigerador. Puedes almacenar los que tú quieras."  />
 			<text id="featureDialog_31_text_1" name="¡Ahora recibirás Ampliaciones Gratis si tienes una cierta cantidad de Amigos!"  />
 			<text id="featureDialog_32_text_0" name="¿Tus Clientes están Sedientos? Consigue la tuya y ayúdalos a refrescarse."  />
 			<text id="featureDialog_33_text_0" name="Tienes una nueva Receta: ¡el Omelette! Prueba a ver cómo te sale."  />
@@ -813,7 +813,7 @@ Tus Ingredientes Exóticos ya no ocupan espacio en tu Refrigerador. Puedes guard
 			<text id="limitedfeatureDialog_15_copy_0" name="¡Compra tus Decoraciones de Halloween AHORA!\nSon sólo por tiempo limitado."  />
 			<text id="limitedfeatureDialog_15_copy_1" name="SÓLO POR HOY"  />
 			<text id="limitedfeatureDialog_2_copy_0" name="¡Compra aquí tus Decoraciones de Halloween! Estarán disponibles sólo por tiempo limitado."  />
-			<text id="limitedfeatureDialog_3_copy_0" name="¡El Invierno está terminando! Las Decoraciones de invierno no estarán disponibles por mucho tiempo."  />
+			<text id="limitedfeatureDialog_3_copy_0" name="¡El Invierno está terminando! Las Decoraciones de Invierno no estarán disponibles por mucho tiempo."  />
 			<text id="limitedfeatureDialog_5_copy_0" name="¡Compra aquí tus Decoraciones de Pascua!
 Estarán disponibles sólo por tiempo limitado."  />
 			<text id="limitedfeatureDialog_time" name="{0} Días para que termine!"  />
@@ -1022,7 +1022,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="preparestep_easterdish_chocolate" name="Probando el chocolate"  />
 			<text id="preparestep_easterdish_eggs" name="Contando los huevos"  />
 			<text id="preparestep_englishbreakfast_beans" name="Hirviendo los frijoles"  />
-			<text id="preparestep_englishbreakfast_eggs" name="Cascando los huevos"  />
+			<text id="preparestep_englishbreakfast_eggs" name="Quebrando los huevos"  />
 			<text id="preparestep_englishbreakfast_flour" name="Tamizando la harina"  />
 			<text id="preparestep_englishbreakfast_sausages" name="Contando las salchichas"  />
 			<text id="preparestep_fishandchips_fish" name="Preparando el pescado"  />
@@ -1121,7 +1121,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="preparestep_porkroastwithcrackling_carrots" name="Pelando las zanahorias"  />
 			<text id="preparestep_porkroastwithcrackling_garlic" name="Machacando el ajo"  />
 			<text id="preparestep_porkroastwithcrackling_meat" name="Cortando la carne"  />
-			<text id="preparestep_porkroastwithcrackling_onion" name="Picado las cebollas"  />
+			<text id="preparestep_porkroastwithcrackling_onion" name="Picando las cebollas"  />
 			<text id="preparestep_potatosalad_cucumber" name="Cortando los pepinos"  />
 			<text id="preparestep_potatosalad_oil" name="Mezclando el aceite"  />
 			<text id="preparestep_potatosalad_potato" name="Pelando las patatas"  />
@@ -1174,7 +1174,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="preparestep_strawberrymousse_strawberry" name="Limpiando las fresas"  />
 			<text id="preparestep_strawberrymousse_sugar" name="Calculando el azúcar"  />
 			<text id="preparestep_stuffedpeppers_ballpepper" name="Ahuecando los pimientos"  />
-			<text id="preparestep_stuffedpeppers_eggs" name="Cascando los huevos"  />
+			<text id="preparestep_stuffedpeppers_eggs" name="Quebrando los huevos"  />
 			<text id="preparestep_stuffedpeppers_rice" name="Cocinando el arroz"  />
 			<text id="preparestep_sundayfeast_carrots" name="Pelando las zanahorias"  />
 			<text id="preparestep_sundayfeast_meat" name="Cortando la carne"  />
@@ -1379,8 +1379,8 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="recipe_vegetablesoup" name="Sopa de Verduras"  />
 			<text id="recipe_veggiecurry" name="Curry Vegetariano"  />
 			<text id="recipe_veggielasagne" name="Lasaña Vegetariana"  />
-			<text id="recipe_whitechoccheesecake" name="Pastel de Queso con Choc Blanco"  />
-			<text id="recipe_whitechocmousse" name="Mousse de Chocolate Clanco"  />
+			<text id="recipe_whitechoccheesecake" name="Cheesecake con Chocolate Blanco"  />
+			<text id="recipe_whitechocmousse" name="Mousse de Chocolate Blanco"  />
 		</recipe>
 		<recipes_fastfood>
 			<text id="recipe_smoothiemaker_greensmoothie" name="Smoothie Verde"  />
@@ -1469,7 +1469,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="tt_CafeCookBookDialog_5" name="Aperitivos"  />
 			<text id="tt_CafeCookBookDialog_btn_cook" name="Cocinar"  />
 			<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="¡Te faltan Ingredientes!"  />
-			<text id="tt_CafeCookBookDialog_btn_mastery" name="Todavía te faltan {0} hasta el Nivel de Maestría {1}. Haz Clic para ver los detalles"  />
+			<text id="tt_CafeCookBookDialog_btn_mastery" name="Todavía te faltan {0} hasta el Nivel de Maestría {1}. Haz Clic para ver los detalles."  />
 			<text id="tt_CafeCookBookDialog_btn_shop" name="Almacén"  />
 			<text id="tt_CafeDekoShopPanel_btn_close" name="Volver a tu Café"  />
 			<text id="tt_CafeDekoShopPanel_btn_deko" name="Remodelar"  />
@@ -1525,11 +1525,11 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="tt_CafeOptionPanel_btn_music" name="Música Encendido/Apagado"  />
 			<text id="tt_CafeOptionPanel_btn_news" name="Foro"  />
 			<text id="tt_CafeOptionPanel_btn_options" name="Opciones"  />
-			<text id="tt_CafeOptionPanel_btn_screenshot" name="Pantallazo"  />
+			<text id="tt_CafeOptionPanel_btn_screenshot" name="Captura de Pantalla"  />
 			<text id="tt_CafeOptionPanel_btn_sfx" name="Efectos Encendido/Apagado"  />
 			<text id="tt_CafeOptionPanel_btn_socialgroup" name="Grupo"  />
 			<text id="tt_CafeOptionPanel_btn_sound" name="Sonido"  />
-			<text id="tt_CafeOptionPanel_btn_support" name="Asistencia técnica"  />
+			<text id="tt_CafeOptionPanel_btn_support" name="Soporte Técnico"  />
 			<text id="tt_CafeOptionPanel_btn_verifyemail" name="Reclama tu Recompensa"  />
 			<text id="tt_CafeOptionPanel_btn_wantfriends" name="Permitir Solicitudes de Amistad"  />
 			<text id="tt_CafeOptionPanel_btn_zoom" name="Zoom"  />
@@ -1546,7 +1546,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="tt_CafeStaffDialog_rename" name="Cambiar Nombre del Mesero"  />
 			<text id="tt_CafeUserStatePanel_btn_adddollar" name="Agregar Dólares Café/ Monedas de Oro"  />
 			<text id="tt_CafeUserStatePanel_btn_refill" name="Solicitar Permisos de Empleo"  />
-			<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP hasta el próximo Nivel."  />
+			<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} de XP para el próximo Nivel."  />
 			<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP"  />
 			<text id="tt_highscore_luxury" name="Ordenar por Valor de Lujo"  />
 			<text id="tt_highscore_xp" name="Ordenar por cantidad de XP"  />
@@ -1695,7 +1695,7 @@ Estamos trabajando lo más rápido posible, para que puedas volver a Jugar pront
 				<text id="generic_friends_invite_error_title" name="Regístrate Primero"  />
 			</friends>
 			<fullscreen>
-				<text id="generic_fullscreen_error_copy" name="La Pantalla Completa no es posible"  />
+				<text id="generic_fullscreen_error_copy" name="La Pantalla Completa no es posible."  />
 			</fullscreen>
 			<languages>
 				<text id="generic_language_cs" name="Checo"  />
@@ -1735,7 +1735,7 @@ Si tienes alguna pregunta, por favor, contacta al Equipo de Soporte."  />
 				<text id="generic_login_banned_permanent" name="Permanente"  />
 				<text id="generic_login_facebook" name="Entrar a través de Facebook"  />
 				<text id="generic_login_login" name="Iniciar Sesión"  />
-				<text id="generic_login_loginname" name="Nombre del Jugador/Email"  />
+				<text id="generic_login_loginname" name="Nombre del Jugador/Correo Electrónico"  />
 				<text id="generic_login_lostpassword" name="¿Olvidaste tu Contraseña?"  />
 				<text id="generic_login_lostpassword_copy" name="Escribe tu Correo Electrónico y te enviaremos tu Contraseña."  />
 				<text id="generic_login_lostpassword_title" name="¿Olvidaste tu Contraseña?"  />
@@ -1808,7 +1808,7 @@ Si tienes alguna pregunta, por favor, contacta al Equipo de Soporte."  />
 				<text id="loading_text_20" name="Próximamente"  />
 				<text id="loading_text_3" name="Haciendo girar la Rueda del Hámster."  />
 				<text id="loading_text_4" name="Acelerando el Servidor."  />
-				<text id="loading_text_5" name="Esperando que todo vaya Cien."  />
+				<text id="loading_text_5" name="Esperando que todo vaya Bien."  />
 				<text id="loading_text_6" name="Llamando al Exterminador."  />
 				<text id="loading_text_7" name="Calculando Algoritmos Complicados."  />
 				<text id="loading_text_8" name="Calibrando el Condensador de Flujo."  />
