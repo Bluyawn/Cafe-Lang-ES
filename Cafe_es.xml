@@ -485,7 +485,7 @@ Duración del Bronce: {3} Horas"  />
 			<text id="dialogwin_ingamehelp_1_6" name="Cada Plato tiene un diferente Tiempo de Cocción. Ponlo en el Mostrador para servirlo."  />
 			<text id="dialogwin_ingamehelp_1_7" name="Al utilizar la Cocina se ensucia. Debes limpiarla cada vez que la usas."  />
 			<text id="dialogwin_ingamehelp_2_1" name="¿Qué hay que saber sobre los Ingredientes?"  />
-			<text id="dialogwin_ingamehelp_2_2" name="Aquí se guardan los Ingredientes que compraste. Cada Refrigerador tiene un Límite de Capacidad, pero siempre es bueno tener reservas."  />
+			<text id="dialogwin_ingamehelp_2_2" name="Aquí se guardan los Ingredientes que hayas comprado. Cada Refrigerador tiene un Límite de Capacidad, pero siempre es bueno tener reservas."  />
 			<text id="dialogwin_ingamehelp_2_3" name="Los Ingredientes Exóticos le darán más sabor a tus Platos. Si los utilizas, obtendrás más Raciones y XP. No ocupan espacio en tu Refrigerador."  />
 			<text id="dialogwin_ingamehelp_2_4" name="No todos los Ingredientes estarán siempre disponibles. El Expreso Local puede ayudarte. Una pequeña propina te dará todo lo que necesitas."  />
 			<text id="dialogwin_ingamehelp_2_5" name="Estos Ingredientes estarán siempre disponibles:"  />
@@ -500,7 +500,7 @@ Duración del Bronce: {3} Horas"  />
 			<text id="dialogwin_ingamehelp_4_2" name="Puedes conocer otros Jugadores, buscar un Empleo o simplemente Chatear con otros Jugadores en el Mercado."  />
 			<text id="dialogwin_ingamehelp_4_3" name="Cualquier acción que realices resultará en Logros, XP o Dólares Café."  />
 			<text id="dialogwin_ingamehelp_4_4" name="En el Mercado te encontrarás con otros Jugadores, puedes contratarlos como Meseros en tu Café, o puedes ser tú el Mesero en el Café de otro Jugador."  />
-			<text id="dialogwin_ingamehelp_4_5" name="El Cooperativo es un proyecto colaborativo de cocina, el cual puedes jugar con otros Jugadores. Si ganan, tendrán una Recompensa."  />
+			<text id="dialogwin_ingamehelp_4_5" name="El Cooperativo es un proyecto de cocina colaborativo, el cual puedes jugar con otros Jugadores. Si ganan, tendrán una Recompensa."  />
 			<text id="dialogwin_ingamehelp_4_6" name="Los Meseros sirven los Platos Terminados a los Clientes y retiran los Platos luego de que estos se van."  />
 			<text id="dialogwin_ingamehelp_4_7" name="Si tienes un Plato Terminado y no lo has puesto en un Mostrador, se Pudrirá."  />
 			<text id="dialogwin_ingamehelp_ingredients" name="Ingredientes"  />
@@ -516,7 +516,7 @@ Duración del Bronce: {3} Horas"  />
 			<text id="dialogwin_ingredient_storeinused" name="En tu Refrigerador:"  />
 			<text id="dialogwin_ingredient_storelayer" name="Refrigerador"  />
 			<text id="dialogwin_ingredient_vegatable" name="Vegetales"  />
-			<text id="dialogwin_instantcooking_copy" name="¿Quieres utilizar la &quot;Cocina Instantánea&quot;? Puedes hacerlo {0} veces más."  />
+			<text id="dialogwin_instantcooking_copy" name="¿Quieres utilizar una &quot;Cocina Instantánea&quot;? Puedes hacerlo {0} veces más."  />
 			<text id="dialogwin_instantcooking_title" name="¿Quieres
  ¿&#039;Cocina Instantánea&#039;?"  />
 			<text id="dialogwin_jobpaycheck_copy" name="¡Un buen Trabajo te dará una gran Recompensa! Además, ¡ganarás una mayor cantidad de Experiencia!"  />
@@ -738,7 +738,7 @@ Por favor, cierra tu Sesión."  />
 			<text id="shopbuy_error" name="¡No hay espacio!"  />
 			<text id="shopbuy_errorcode_40" name="¡Tu Refrigerador está lleno!"  />
 			<text id="shopdelete_errorcode_41" name="Artículo no disponible"  />
-			<text id="smoothiemaker_error_alreadyserved" name="Ya le están sirviendo un Plato al Cliente."  />
+			<text id="smoothiemaker_error_alreadyserved" name="Ya le están sirviendo un Plato a este Cliente."  />
 			<text id="useraction_error" name="¡Atención!"  />
 			<text id="useraction_errorcode_2" name="¡A descansar! ¡Ya has trabajado suficiente por hoy!"  />
 			<text id="useraction_errorcode_62" name="Primero, toma un Plato del Mostrador."  />
@@ -868,7 +868,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="ingredient_chili" name="Chile"  />
 			<text id="ingredient_chocolate" name="Chocolate"  />
 			<text id="ingredient_cinnamon" name="Canela"  />
-			<text id="ingredient_cocktailcherry" name="Cereza para Cóctel"  />
+			<text id="ingredient_cocktailcherry" name="Cereza de Cóctel"  />
 			<text id="ingredient_coconut" name="Cocos"  />
 			<text id="ingredient_cookies" name="Galletas"  />
 			<text id="ingredient_coriander" name="Cilantro"  />
@@ -1379,7 +1379,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="recipe_vegetablesoup" name="Sopa de Verduras"  />
 			<text id="recipe_veggiecurry" name="Curry Vegetariano"  />
 			<text id="recipe_veggielasagne" name="Lasaña Vegetariana"  />
-			<text id="recipe_whitechoccheesecake" name="Cheesecake con Chocolate Blanco"  />
+			<text id="recipe_whitechoccheesecake" name="Cheesecake de Chocolate Blanco"  />
 			<text id="recipe_whitechocmousse" name="Mousse de Chocolate Blanco"  />
 		</recipe>
 		<recipes_fastfood>
