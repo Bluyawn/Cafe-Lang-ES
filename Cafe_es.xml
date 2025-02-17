@@ -1356,7 +1356,7 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="recipe_porkroastwithcrackling" name="Asado de Cerdo"  />
 			<text id="recipe_potatosalad" name="Ensalada de Patatas"  />
 			<text id="recipe_redberrycompote" name="Compota de Frutos Rojos"  />
-			<text id="recipe_ricepudding" name="Arroz con Leche y Puré de Manzanas"  />
+			<text id="recipe_ricepudding" name="Arroz con Leche y Puré de Manzana"  />
 			<text id="recipe_roastchicken" name="Pollo Asado"  />
 			<text id="recipe_sandwich" name="Sandwich"  />
 			<text id="recipe_scouse" name="Labskaus"  />
@@ -1372,8 +1372,8 @@ Estarán disponibles sólo por tiempo limitado."  />
 			<text id="recipe_sushi" name="Sushi"  />
 			<text id="recipe_toadinahole" name="Toad in a Hole"  />
 			<text id="recipe_toast" name="Pan Tostado Hawaiano"  />
-			<text id="recipe_tofuburger" name="Hamburguesa de Queso de Soya"  />
-			<text id="recipe_tomatosoup" name="Sopa de Tomates"  />
+			<text id="recipe_tofuburger" name="Hamburguesa de Tofu"  />
+			<text id="recipe_tomatosoup" name="Sopa de Tomate"  />
 			<text id="recipe_trifle" name="Trifle"  />
 			<text id="recipe_veganstirfry" name="Guiso Vegetariano"  />
 			<text id="recipe_vegetablesoup" name="Sopa de Verduras"  />
